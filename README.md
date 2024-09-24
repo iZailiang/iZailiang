@@ -7,7 +7,7 @@ $ cat /proc/self/environ
 |_| |_|\___|_|_|\___/
 
 NAME=Zailiang Sun
-EMAIL=Zailiangs@outlook.com
+EMAIL=zailiangs@outlook.com
 OCCUPATION=Full-Stack Developer
 OS=MacOS
 LANGUAGE=Python, Javascript, Java, SQL, HTML, CSS, Cypher, Shell, Markdown
